@@ -23,9 +23,9 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ### ฝึกสร้าง Web blog
 >
-> Home Page | Build Blog with Laravel, Livewire & Filament #4
+> Blog Page Stub | Build Blog with Laravel, Livewire & Filament #5
 >
-> https://www.youtube.com/watch?v=nGyowsfRY5s&list=PLqDySLfPKRn5cEn5H2djYJNcmlaYWz-L3&index=5
+> https://www.youtube.com/watch?v=sOTQ2brAtpI&list=PLqDySLfPKRn5cEn5H2djYJNcmlaYWz-L3&index=7
 
 > Start Project
 >
